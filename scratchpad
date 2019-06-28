@@ -1,0 +1,8 @@
+op   dr  sr1      sr2
+0001 001 010 0 00 011
+
+0001|001|010|0|00|011
+
+
+https://justinmeiners.github.io/lc3-vm/supplies/lc3-isa.pdf
+https://justinmeiners.github.io/lc3-vm/index.html#1:12
